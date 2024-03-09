@@ -18,26 +18,6 @@ One of the most significant trends in DevOps is the widespread adoption of cloud
 
 
 
-~~~bash
-    #!/bin/bash
-
-    echo "Hello, World!"
-
-~~~
-
-~~~python
-    #!/usr/bin/env python3
-
-    print("Hello, World!")
-
-~~~
-
-~~~javascript
-    console.log("Hello, World!");
-
-~~~
-
-
 ## Automation Everywhere
 
 Automation remains a cornerstone of DevOps practices, and we're seeing even greater emphasis on automation across the software development lifecycle. From code deployment and infrastructure provisioning to testing and monitoring, automation tools and frameworks are streamlining processes and accelerating delivery cycles.
