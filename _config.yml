@@ -23,13 +23,11 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://ysalha2003.github.io"
 
 github:
   username: ysalha2003 # change to your github username
 
-twitter:
-  username: yasersalha # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +36,10 @@ social:
   email: yaser.salha.se@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/yasersalha # change to your twitter homepage
     - https://github.com/ysalha2003 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/yaser-salha-95648513/
 
 google_site_verification: # fill in to your verification string
 
@@ -127,6 +124,10 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
+
+# Add the tag_dir and category_dir settings here
+tag_dir: tags
+category_dir: categories
 
 # ------------ The following options are not recommended to be modified ------------------
 
