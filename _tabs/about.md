@@ -5,7 +5,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
 
 Hi there! My name is Yaser Salha. I'm passionate about technology, particularly in the fields of programming, web development, and DevOps.
 
