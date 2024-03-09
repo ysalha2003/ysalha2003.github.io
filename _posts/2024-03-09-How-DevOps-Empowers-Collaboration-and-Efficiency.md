@@ -37,3 +37,12 @@ To harness the power of DevOps, organizations must cultivate a culture of collab
 In conclusion, DevOps represents a paradigm shift in how teams collaborate and deliver software. By embracing DevOps principles, organizations can unlock the full potential of their teams and achieve greater efficiency, innovation, and success.
 
 In this blog post, we've explored how DevOps empowers collaboration and efficiency in software development. Whether you're a developer, tester, operations professional, or business leader, embracing DevOps can drive positive change and unlock new opportunities in today's fast-paced digital landscape.
+
+
+<script src="https://utteranc.es/client.js"
+        repo="ysalha2003.github.io"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
