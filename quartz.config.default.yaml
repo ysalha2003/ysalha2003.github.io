@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-    pageTitle: Yaser Salha
-    pageTitleSuffix: ""
+  pageTitle: Yaser Salha
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-    baseUrl: ysalha2003.github.io
+  baseUrl: ysalha2003.github.io
   ignorePatterns:
     - private
     - templates
@@ -265,7 +265,7 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+      content: {}
     folder:
       exclude:
         - reader-mode
